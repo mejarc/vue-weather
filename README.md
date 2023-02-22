@@ -1,5 +1,7 @@
 # vue-weather
 
+How much VueJS can I learn in 45 minutes? A simple exploration with a sample weather application.
+
 ## Project setup
 ```
 npm install
